@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankitbisht28
-- 👀 I’m interested in CLOUD, DEVOPS & BLOCKCHAIN
-- 🌱 I’m currently learning DevOps
+- 👀 Passionate about CLOUD, DEVOPS & BLOCKCHAIN
+- 🌱 Currently learning DevOps
 - 📫 How to reach me ... bishtankit282001@gmail.com
 
 <!---
